@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use the materials from this program, please cite it as below."
+authors:
+  - family-names: "Gosavi"
+    given-names: "Noopur"
+    orcid: "https://orcid.org/0000-0002-7181-9350"
+  - family-names: "Valerja"
+    given-names: "Slavina"
+  - family-names: "Carolyn"
+    given-names: "Neff"
+title: "Voices Unboxed: Climate Edition"
+version: "1.0.0"
+doi: "TBD"
+date-released: "2026-08-08"
+url: "https://github.com/noopurgosavi/voices-unboxed-climate/"
